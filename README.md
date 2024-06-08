@@ -7,4 +7,4 @@
 
 >FULL Source code aplikasi regresi
 
->96 MOD 3 = 0 | Mengerjakan dengan Metode `: Integrasi Reimann
+>2 digit akhir NIM = 96 MOD 3 = 0 | Mengerjakan dengan Metode: Integrasi Reimann
